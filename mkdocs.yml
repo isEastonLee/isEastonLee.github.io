@@ -65,10 +65,10 @@ extra:
   generator: false                            # 关闭 MKDOCS 来源页脚
   social:
     - icon: material/folder
-      link: ../public/
+      link: /public/
       name: Public
     - icon: material/folder-lock
-      link: ../private/
+      link: /private/
       name: Private
     - icon: simple/openwrt
       link: http://10.0.0.1
