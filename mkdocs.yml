@@ -80,7 +80,7 @@ extra:
       link: http://10.0.0.1:16601
       name: Lucky
     - icon: material/minecraft
-      link: http://:23333
+      link: http://10.0.0.109:23333
       name: Minecraft
     - icon: material/google-translate
       link: https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&op=translate
