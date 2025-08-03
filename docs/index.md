@@ -67,9 +67,19 @@ glightbox: false  # 禁止图片放大  或者在标签中使用 class="on-glb" 
   } */
 
   /* 当视口宽度小于1220px时隐藏 */
-  @media (max-width: 1219px) {
-    .md-footer, .md-footer-meta { 
+  @media (max-width: 600px) {
+    .md-social{
+      padding: 0;
+    }
+    .md-copyright__highlight{
+      /* margin: 0; */
       display: none;
+    }
+    .md-grid{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
     }
   }
 </style>
