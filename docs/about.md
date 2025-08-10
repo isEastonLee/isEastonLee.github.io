@@ -32,18 +32,8 @@ glightbox: false
 <!-- ## :icons8-link: Contact -->
 
 <div class="grid cards" markdown>
-
-
 - [:simple-gmail: &nbsp;__Gmail__ : isEastonLee](mailto:isEastonLee@gmail.com){ target="_blank" } :material-content-copy:{.copy-button data-clipboard-text="isEastonLee@gmail.com" title="复制"}
 - [:material-microsoft-outlook: &nbsp;__Outlook__ : isEastonLee](mailto:isEastonLee@outlook.com){ target="_blank" } :material-content-copy:{.copy-button data-clipboard-text="isEastonLee@outlook.com" title="复制"}
-- [:simple-qq: &nbsp;__QQ__ : 1317262104](https://qm.qq.com/q/L8Psq6fh){ target="_blank" }:material-content-copy:{.copy-button data-clipboard-text="1317262104" title="复制"}
-<!-- - [:simple-github: &nbsp;__GitHub__ : Easton](https://github.com/isEastonLee){ target="_blank" } -->
-- [:simple-wechat: &nbsp;__WeChat__ : sudo-apt](./images/about/微信二维码.png){ target="_blank" }
-- [:simple-telegram: &nbsp;__Telegram__ : Easton ](https://t.me/isEastonLee){ target="_blank}
-- [:simple-instagram: &nbsp;__Instagram__ : Easton](https://www.instagram.com/isEastonLee/){ target="_blank" }
-- [:simple-tiktok: &nbsp;__抖音__ : 不叫李宛 ](https://www.douyin.com/user/MS4wLjABAAAAOvMRoJmc5JWGlQQh0Db9Iml88UFzcLf0wmfEIi4GWEvBIUPGaDtuopwiqyE4C3an?from_tab_name=main&vid=7358879260318207242){ target="_blank" }
-- [:fontawesome-brands-bilibili: &nbsp;__Bilibili__ : 不叫李宛](https://space.bilibili.com/612629211){ target="_blank" }
-- [:simple-youtube: &nbsp;__YouTube__ : Easton](https://www.youtube.com/@isEastonLee){ target="_blank" }
 </div>
 
 
@@ -58,7 +48,7 @@ glightbox: false
     
     ---
 
-    **全日制交流** | **智能网联汽车**
+    **国家卓工计划** | **智能网联汽车**
 
     :octicons-arrow-right-24: [学校官网](https://cqu.edu.cn/){target="_blank"}
     [卓工官网](https://eie.cqu.edu.cn/){target="_blank"}
