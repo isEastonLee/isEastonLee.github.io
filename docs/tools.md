@@ -105,15 +105,20 @@ glightbox: false
 
 - 机场与娱乐
 
+    [:icons8-VPN: &nbsp;__赔钱机场(代)__](https://xn--mes358aby2apfg.com/#/register?code=Hw7cqluV){target="_blank" .md-button .lee-button style="border:0"}
+    [:icons8-VPN: &nbsp;__赔钱机场(直)__](https://xn--cp3a08l.com/#/register?code=Hw7cqluV){target="_blank" .md-button .lee-button style="border:0"}
+
     [:other-央视频: &nbsp;__国内电视__](https://www.yangshipin.cn/tv/home){target="_blank" .md-button .lee-button style="border:0"}
-    [:icons8-VPN: &nbsp;__赔钱机场(需代理)__](https://xn--mes358aby2apfg.com/#/register?code=Hw7cqluV){target="_blank" .md-button .lee-button style="border:0"}
-
     [:icons8-Movie: &nbsp;__厂长资源__](https://www.czzy.site/){target="_blank" .md-button .lee-button style="border:0"}
-    [:icons8-VPN: &nbsp;__赔钱机场(可直连)__](https://xn--cp3a08l.com/#/register?code=Hw7cqluV){target="_blank" .md-button .lee-button style="border:0"}
 
-    [:icons8-Movie: &nbsp;__火车太堵__](https://www.tdgo.shop/){target="_blank" .md-button .lee-button style="border:0"}
+    <!-- [:icons8-Movie: &nbsp;__火车太堵__](https://www.tdgo.shop/){target="_blank" .md-button .lee-button style="border:0"} -->
+    [:icons8-LittleSkin: &nbsp;__Little Skin__](https://littleskin.cn/auth/login){target="_blank" .md-button .lee-button style="border:0"}
     [:icons8-BYRUTOR: &nbsp;__BYRUTOR__](https://byrutgame.org/){target="_blank" .md-button .lee-button style="border:0"}
 
-    [:icons8-Movie: &nbsp;__可可影视__](https://www.keke1.app/){target="_blank" .md-button .lee-button style="border:0"}
-    [:icons8-LittleSkin: &nbsp;__Little Skin__](https://littleskin.cn/auth/login){target="_blank" .md-button .lee-button style="border:0"}
+    [:icons8-抖音: &nbsp;__抖音__ ](https://www.douyin.com){ target="_blank" .md-button .lee-button style="border:0"}
+    [:other-哔哩哔哩: &nbsp;__Bilibili__](https://www.bilibili.com/){target="_blank" .md-button .lee-button style="border:0"}
+
+    [:simple-youtube:{style="color: #EE0F0F;"} &nbsp;__Youtube__](https://www.youtube.com/){target="_blank" .md-button .lee-button style="border:0"}
+    [:simple-x:{style="color: #FFF;"} &nbsp;__X__](https://x.com/){target="_blank" .md-button .lee-button style="border:0"}
+
 </div>
