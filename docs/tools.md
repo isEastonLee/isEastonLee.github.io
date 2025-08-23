@@ -57,8 +57,6 @@ glightbox: false
     
 </div>
 
----
-
 <div class="grid cards" markdown>
 
 - 科技公司
@@ -97,7 +95,7 @@ glightbox: false
     [:icons8-Movie: &nbsp;__厂长资源__](https://www.czzy.site/){target="_blank" .md-button .lee-button style="border:0"}
     [:icons8-LittleSkin: &nbsp;__Little Skin__](https://littleskin.cn/auth/login){target="_blank" .md-button .lee-button style="border:0"}
     [:icons8-BYRUTOR: &nbsp;__BYRUTOR__](https://byrutgame.org/){target="_blank" .md-button .lee-button style="border:0"}
-    [:icons8-抖音: &nbsp;__抖音__ ](https://www.douyin.com){ target="_blank" .md-button .lee-button style="border:0"}
+    [:icons8-抖音: &nbsp;__抖音__ ](https://www.douyin.com/?recommend=1){ target="_blank" .md-button .lee-button style="border:0"}
     [:other-哔哩哔哩: &nbsp;__Bilibili__](https://www.bilibili.com/){target="_blank" .md-button .lee-button style="border:0"}
     [:simple-youtube:{style="color: #EE0F0F;"} &nbsp;__Youtube__](https://www.youtube.com/){target="_blank" .md-button .lee-button style="border:0"}
     [:simple-x:{style="color: #FFF;"} &nbsp;__X__](https://x.com/){target="_blank" .md-button .lee-button style="border:0"}
